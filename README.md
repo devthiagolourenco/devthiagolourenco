@@ -9,7 +9,7 @@ Atualmente, dedico meus estudos e projetos pessoais à criação de sistemas esc
 - 💻 Desenvolvendo soluções completas com **Python, Django e Django Rest Framework**.
 - 🧠 Explorando e implementando **Inteligência Artificial** (OpenAI, LangChain, RAG) em aplicações práticas.
 - ⚙️ Criando integrações comerciais (Gateways de Pagamento, Webhooks, APIs externas).
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seu-perfil) | [Seu E-mail](mailto:seu-email@email.com)
+- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seu-perfil) | [E-mail](mailto:seu-email@email.com)
 
 ---
 
