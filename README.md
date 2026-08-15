@@ -48,9 +48,9 @@ Aqui estão os repositórios onde aplico meus conhecimentos na prática:
 
 <div align="left">
   <a href="https://github.com/devthiagolourenco">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=devthiagolourenco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=devthiagolourenco&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/devthiagolourenco">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthiagolourenco&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthiagolourenco&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
   </a>
 </div>
